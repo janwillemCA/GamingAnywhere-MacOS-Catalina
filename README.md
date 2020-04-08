@@ -7,8 +7,7 @@ GamingAnywhere: An Open Cloud Gaming System
 
 GamingAnywhere is an open-source clouding gaming platform. In addition to its
 openness, we design GamingAnywhere for high extensibility, portability, and
-reconfigurability. GamingAnywhere currently supports Windows and Linux, and
-can be ported to other OS's including OS X and Android.
+reconfigurability. GamingAnywhere currently supports Windows, Linux, MacOS
 
 * Documents
 
